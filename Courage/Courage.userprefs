@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/Rhythm.cs">
+    <Files>
+      <File FileName="Assets/Script/Rhythm.cs" Line="73" Column="7" />
+      <File FileName="Assets/Script/toMove.cs" Line="12" Column="23" />
+      <File FileName="Assets/Script/enemyMove.cs" Line="44" Column="38" />
+      <File FileName="../ritgig_glpp1/onboarding-prototype/Assets/Scripts/clickDrag.cs" Line="37" Column="3" />
+      <File FileName="../ritgig_glpp1/onboarding-prototype/Assets/Scripts/onSetCollision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/trinket.cs" Line="25" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
